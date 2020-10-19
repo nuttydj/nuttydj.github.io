@@ -1,1 +1,9 @@
-hello
+{
+  "date": "16/10/2020",
+  "version": 1,
+  "recipes": [
+    "Sweet and sour",
+    "Coconut Dal",
+    "Easy Bacon Rice"
+  ]
+}
