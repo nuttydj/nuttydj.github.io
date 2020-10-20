@@ -1,6 +1,7 @@
 {
   "date": "20/10/2020",
   "location": "master",
+  "timezone": "make it work",
   "version": 1,
   "steps": [
       {
