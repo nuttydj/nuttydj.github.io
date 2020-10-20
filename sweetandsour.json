@@ -1,0 +1,16 @@
+{
+  "date": "20/10/2020",
+  "version": 1,
+  "steps": [
+      {
+      "instruction": "test instruction number 1",
+      "timer": 10
+      },
+      
+      {
+      "instruction": "test instruction number 2",
+      "timer": 10
+      }
+  
+  ]
+}
