@@ -1,0 +1,57 @@
+{
+  "date": "20/10/2020",
+  "location": "master",
+  "version": 1,
+  "steps": [
+      {
+      "instruction": "Preheat Oven.  Chop Butternut squash (1cm cubes), place on tray with oil, salt, pepper and 1/2 tablespoon curry powder.  Roast the squash",
+      "timer": 600
+      },
+      
+      {
+      "instruction": "Slice onion, chop tomatoes into 2cm chunks, roughly chop the corriander",
+      "timer": 270
+      },
+    
+      {
+      "instruction": "Boil 50ml of water.  Heat splash of oil in a saucepan, add 1/2 tablespoon of curry powder.",
+      "timer": 120
+      },
+    
+      {
+      "instruction": "Add tomatoes and cook for 1 min",
+      "timer": 60
+      },
+    
+      {
+      "instruction": "Add water, veg stock and 200ml coconut milk",
+      "timer": 90
+      },
+    
+      {
+      "instruction": "Rinse lentils for 1 min",
+      "timer": 60
+      },
+    
+      {
+      "instruction": "Add lentils to the saucepan and simmer",
+      "timer": 540
+      },
+    
+      {
+      "instruction": "Fry the onions in a frying pan",
+      "timer": 120
+      },
+    
+      {
+      "instruction": "Warm naan bread in the oven",
+      "timer": 240
+      },
+    
+      {
+      "instruction": "Ready!!",
+      "timer": 30
+      }
+  
+  ]
+}
