@@ -2,6 +2,17 @@
   "date": "20/10/2020",
   "location": "master",
   "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "squash",
+      "amount": "1/2"
+    },
+    
+    {
+      "ingredient": "lentils",
+      "amount": "100g"
+    }
+  ]
   "steps": [
       {
       "instruction": "Preheat Oven.  Chop Butternut squash (1cm cubes), place on tray with oil, salt, pepper and 1/2 tablespoon curry powder.  Roast the squash",
