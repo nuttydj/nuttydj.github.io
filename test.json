@@ -16,7 +16,8 @@
   "steps": [
       {
       "instruction": "Preheat Oven.  Chop Butternut squash (1cm cubes), place on tray with oil, salt, pepper and 1/2 tablespoon curry powder.  Roast the squash",
-      "timer": 7
+      "timer": 7,
+      "branch": 0
       },
       
       {
