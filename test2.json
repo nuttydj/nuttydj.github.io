@@ -4,19 +4,19 @@
   "version": 1,
   "steps": [
       {
-      "instruction": "Microwave butter and golden syrup until butter is melted",
+      "instruction": "Microwave butter and golden syrup until butter is melted"
       },
       
       {
-      "instruction": "Add dry ingredients and mix thoroughly",
+      "instruction": "Add dry ingredients and mix thoroughly"
       },
     
       {
-      "instruction": "Roll into small lumps of mix and press slightly onto baking tray",
+      "instruction": "Roll into small lumps of mix and press slightly onto baking tray"
       },
     
       {
-      "instruction": "Cook at 160 degress C for 15 minutes",
+      "instruction": "Cook at 160 degress C for 15 minutes"
       }
   ]
 }
