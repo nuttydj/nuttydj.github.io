@@ -1,7 +1,23 @@
 {
-  "date": "20/10/2020",
+  "date": "29/10/2020",
   "location": "master",
   "version": 1,
+    "ingredients" : [
+    {
+      "ingredient": "Golden Syrup",
+      "amount": "2 tbsp"
+    },
+    
+    {
+      "ingredient": "Sugar",
+      "amount": "6oz"
+    },
+    
+    {
+      "ingredient": "Baking Powder",
+      "amount": "1 tsp"
+    }
+  ],
   "steps": [
       {
       "instruction": "Microwave butter and golden syrup until butter is melted"
