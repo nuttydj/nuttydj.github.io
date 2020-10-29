@@ -16,6 +16,21 @@
     {
       "ingredient": "Baking Powder",
       "amount": "1 tsp"
+    },
+    
+    {
+      "ingredient": "Bicarbonate Soda (or 3 tsp Baking powder)",
+      "amount": "1 tsp"
+    },
+    
+    {
+      "ingredient": "Self Raising Flour",
+      "amount": "6oz"
+    },
+    
+    {
+      "ingredient": "Butter",
+      "amount": "6oz"
     }
   ],
   "steps": [
