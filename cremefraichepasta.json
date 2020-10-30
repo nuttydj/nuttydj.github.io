@@ -1,0 +1,99 @@
+{
+  "date": "30/10/2020",
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "Butternut Squash",
+      "amount": "400g"
+    },
+    
+    {
+      "ingredient": "Red Onion",
+      "amount": "1"
+    },
+    
+    {
+      "ingredient": "Broccoli",
+      "amount": "6 Heads"
+    },
+    
+    {
+      "ingredient": "Garlic",
+      "amount": "1 Clove"
+    },
+    
+    {
+      "ingredient": "Serrano Ham",
+      "amount": "2 Slices (optional)"
+    },
+    
+    {
+      "ingredient": "Linguine",
+      "amount": "180g"
+    },
+    
+    {
+      "ingredient": "Veggie Stock",
+      "amount": "1 Cube"
+    },
+    
+    {
+      "ingredient": "Creme Fraiche",
+      "amount": "150g"
+    },
+    
+    {
+      "ingredient": "Parsley",
+      "amount": "1 Bunch"
+    }
+    
+  ],
+  "steps": [
+      {
+      "instruction": "Preheat oven to 200, chop Butternut Squash into 1cm cubes. Roast on baking tray with oil, salt and pepper.",
+      "timer": 360
+      },
+      
+      {
+      "instruction": "Put saucepan on to boil. Chop Onion Broccoli and Parsley, tear Ham and press Garlic",
+      "timer": 300
+      }, 
+      
+      {
+      "instruction": "Cook Linguine, save 125ml of pasta water when draining,
+      "timer": 60
+      },
+       
+      {
+      "instruction": "Heat oil in frying pan, cook ham on both sides then remove from pan",
+      "timer": 240
+      },
+       
+      {
+      "instruction": "Fry Onion",
+      "timer": 240
+      },
+       
+      {
+      "instruction": "Add Broccoli and splash of water, stir fry",
+      "timer": 300
+      },
+       
+      {
+      "instruction": "Stir in Garlic, Pasta water, Stock, Creme Fraiche and Parsley. Add the Ham. Bring to the boil.",
+      "timer": 180
+      },
+       
+      {
+      "instruction": "Add drained Linguine and Roasted Butternut Squash",
+      "timer": 120
+      },
+       
+      {
+      "instruction": "Season and Serve",
+      "timer": 60
+      }
+  
+  ]
+}
