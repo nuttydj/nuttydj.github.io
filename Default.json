@@ -1,0 +1,113 @@
+{
+  "date": "",
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    },
+    
+    {
+      "ingredient": "",
+      "amount": ""
+    }
+  ],
+  "steps": [
+      {
+      "instruction": "",
+      "timer": 
+      },
+      
+      {
+      "instruction": "",
+      "timer": 
+      }, 
+      
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      },
+       
+      {
+      "instruction": "",
+      "timer": 
+      }
+  
+  ]
+}
