@@ -1,0 +1,65 @@
+{
+  "date": "31/10/2020",
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "Cream Cheese",
+      "amount": "150g"
+    },
+    
+    {
+      "ingredient": "Double Cream",
+      "amount": "75g"
+    },
+    
+    {
+      "ingredient": "Chocolate Orange",
+      "amount": "75g"
+    },
+    
+    {
+      "ingredient": "Icing Sugar",
+      "amount": "19g"
+    },
+    
+    {
+      "ingredient": "Digestive Biscuits",
+      "amount": "75g"
+    },
+    
+    {
+      "ingredient": "Butter",
+      "amount": "37.5g"
+    }
+  ],
+  "steps": [
+      {
+      "instruction": "Starting with the base to give time to set, crumble the digestive biscuits."
+      },
+       
+      {
+      "instruction": "Melt the butter and add to the biscuits, mix thoughly and then press into the base of dishes / ramikins"
+      },
+      
+      {
+      "instruction": "For the top:  Slowly melt the chocolate then leave to cool"
+      },
+      
+      {
+      "instruction": "Mix together the cream cheese and icing sugar"
+      }, 
+      
+      {
+      "instruction": "Whip the double cream in a separate bowl"
+      },
+       
+      {
+      "instruction": "Fold the Cream into the Cream Cheese mixture and then fold through the cooled chocolate"
+      },
+       
+      {
+      "instruction": "Add on top of the bases and cool in the fridge over night"
+      }
+  ]
+}
