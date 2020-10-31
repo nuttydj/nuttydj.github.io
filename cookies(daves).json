@@ -1,0 +1,53 @@
+{
+  "date": "31/10/2020",
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "Butter",
+      "amount": "250g"
+    },
+    
+    {
+      "ingredient": "Caster Sugar",
+      "amount": "50g"
+    },
+    
+    {
+      "ingredient": "Light Muscovado Sugar",
+      "amount": "100g"
+    },
+    
+    {
+      "ingredient": "Self Raising Flour",
+      "amount": "300g"
+    },
+    
+    {
+      "ingredient": "Milk",
+      "amount": "2 tbsp"
+    },
+    
+    {
+      "ingredient": "Chocolate",
+      "amount": "175g"
+    }
+  ],
+  "steps": [
+      {
+      "instruction": "For around 18 portions:  Add all the ingredients into a bowl and mix thoroughly"
+      },
+      
+      {
+      "instruction": "Divide into 18 portions and ball up in your hands.  Then depress slightly onto the baking tray leaving room around each cookies for expansion in cooking."
+      }, 
+     
+      {
+      "instruction": "Add to a lined baking tray and bake in a pre heated oven at 180 degrees C"
+      }, 
+      
+      {
+      "instruction": "Cook for 15 to 20 mins, until pale golden around the edges but soft in the middle (they continue cooking after coming out)."
+      }
+  ]
+}
