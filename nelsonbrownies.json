@@ -1,0 +1,83 @@
+{
+  "date": "31/10/2020
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "Egg"
+      "amount": "1"
+    },
+    
+    {
+      "ingredient": "Butter",
+      "amount": "2oz"
+    },
+    
+    {
+      "ingredient": "Cocoa Powder",
+      "amount": "3/4oz"
+    },
+    
+    {
+      "ingredient": "Plain chocolate",
+      "amount": "1oz"
+    },
+    
+    {
+      "ingredient": "Salt",
+      "amount": "Pinch"
+    },
+    
+    {
+      "ingredient": "Soft Light Brown Sugar",
+      "amount": "4oz"
+    },
+    
+    {
+      "ingredient": "Self Raising Flour",
+      "amount": "1oz"
+    }
+  ],
+  "steps": [
+      {
+      "instruction": "Gentlely melt the butter"
+      },
+      
+      {
+      "instruction": "Stir in the Cocoa Powder and mix until smooth"
+      }, 
+      
+      {
+      "instruction": "Add chocolate to Butter and Cocoa mix and stir until melted and smooth then remove from heat"
+      },
+       
+      {
+      "instruction": "Put eggs, sugar and salt in a separate bowl.  Whisk thoroughly until light and frothy."
+      },
+       
+      {
+      "instruction": "Add chocolate mixture in and whisk thoroughly"
+      },
+       
+      {
+      "instruction": "Sieve in the flour and fold in lightly"
+      },
+       
+      {
+      "instruction": ""
+      },
+       
+      {
+      "instruction": ""
+      },
+       
+      {
+      "instruction": ""
+      },
+       
+      {
+      "instruction": ""
+      }
+  
+  ]
+}
