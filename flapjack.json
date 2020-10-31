@@ -1,0 +1,52 @@
+{
+  "date": "31/10/2020",
+  "location": "master",
+  "version": 1,
+  "ingredients" : [
+    {
+      "ingredient": "Marg",
+      "amount": "200g"
+    },
+    
+    {
+      "ingredient": "Sugar",
+      "amount": "125g"
+    },
+    
+    {
+      "ingredient": "Golden Syrup",
+      "amount": "2 tbsp"
+    },
+    
+    {
+      "ingredient": "Oats (cheap ones are fine)",
+      "amount": "300g"
+    },
+    
+    {
+      "ingredient": "Raisins / Nuts (optional)",
+      "amount": "2 handfuls"
+    }
+  ],
+  "steps": [
+      {
+      "instruction": "Slowly melt the marg then dissolve the sugar and golden syrup."
+      },
+      
+      {
+      "instruction": "Once mixed add the oats and Raisins / Nuts"
+      }, 
+      
+      {
+      "instruction": "Place evenly in a baking tray with grease proof paper (8x11 pyrex gives 3/4 deep flapjack)"
+      },
+       
+      {
+      "instruction": "Oven cook for 30 mins in a preheated oven at 160 degress C"
+      },
+       
+      {
+      "instruction": "Score the flapjack (dont cut) and allow to fully cool, at which point it will break up nicely."
+      }
+  ]
+}
