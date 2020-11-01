@@ -2,35 +2,41 @@
   "date": "31/10/2020",
   "location": "master",
   "version": 1,
+  "units": [
+    "units": 18,
+    "unit descriptor": "Cookies",
+    "scale type": 0
+    ],
+  "default unit" : "g",
   "ingredients" : [
     {
       "ingredient": "Butter",
-      "amount": "250g"
+      "amount": "250"
     },
     
     {
       "ingredient": "Caster Sugar",
-      "amount": "50g"
+      "amount": "50"
     },
     
     {
       "ingredient": "Light Muscovado Sugar",
-      "amount": "100g"
+      "amount": "100"
     },
     
     {
       "ingredient": "Self Raising Flour",
-      "amount": "300g"
+      "amount": "300"
     },
     
     {
       "ingredient": "Milk",
-      "amount": "30g"
+      "amount": "30"
     },
     
     {
       "ingredient": "Chocolate",
-      "amount": "175g"
+      "amount": "175"
     }
   ],
   "steps": [
