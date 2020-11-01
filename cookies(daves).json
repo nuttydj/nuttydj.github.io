@@ -2,11 +2,11 @@
   "date": "31/10/2020",
   "location": "master",
   "version": 1,
-  "units": [
+  "units": {
     "units": 18,
     "unit descriptor": "Cookies",
     "scale type": 0
-    ],
+  },
   "default unit" : "g",
   "ingredients" : [
     {
