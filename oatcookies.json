@@ -11,7 +11,7 @@
     "ingredients" : [
     {
       "ingredient": "Golden Syrup",
-      "amount": "2"
+      "amount": "2",
       "unit": "tbsp"
     },
     
@@ -22,13 +22,13 @@
     
     {
       "ingredient": "Baking Powder",
-      "amount": "1"
+      "amount": "1",
       "unit": "tsp"
     },
     
     {
       "ingredient": "Bicarbonate Soda (or 3x Baking powder)",
-      "amount": "1"
+      "amount": "1",
       "unit": "tsp"
     },
     
