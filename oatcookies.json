@@ -11,8 +11,8 @@
     "ingredients" : [
     {
       "ingredient": "Golden Syrup",
-      "amount": "2",
-      "unit": "tbsp"
+      "amount": "30",
+      "unit": "g"
     },
     
     {
@@ -22,14 +22,14 @@
     
     {
       "ingredient": "Baking Powder",
-      "amount": "1",
-      "unit": "tsp"
+      "amount": "5",
+      "unit": "g"
     },
     
     {
       "ingredient": "Bicarbonate Soda (or 3x Baking powder)",
-      "amount": "1",
-      "unit": "tsp"
+      "amount": "5",
+      "unit": "g"
     },
     
     {
@@ -40,6 +40,11 @@
     {
       "ingredient": "Butter",
       "amount": "6"
+    },
+    
+    {
+      "ingredient": "Oats",
+      "amount": "3"
     }
   ],
   "steps": [
