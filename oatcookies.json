@@ -2,35 +2,44 @@
   "date": "29/10/2020",
   "location": "master",
   "version": 1,
+  "units": {
+    "units": 14,
+    "unit descriptor": "Cookies",
+    "scale type": 0
+  },
+  "default unit" : "oz",
     "ingredients" : [
     {
       "ingredient": "Golden Syrup",
-      "amount": "2 tbsp"
+      "amount": "2"
+      "unit": "tbsp"
     },
     
     {
       "ingredient": "Sugar",
-      "amount": "6oz"
+      "amount": "6"
     },
     
     {
       "ingredient": "Baking Powder",
-      "amount": "1 tsp"
+      "amount": "1"
+      "unit": "tsp"
     },
     
     {
-      "ingredient": "Bicarbonate Soda (or 3 tsp Baking powder)",
-      "amount": "1 tsp"
+      "ingredient": "Bicarbonate Soda (or 3x Baking powder)",
+      "amount": "1"
+      "unit": "tsp"
     },
     
     {
       "ingredient": "Self Raising Flour",
-      "amount": "6oz"
+      "amount": "6"
     },
     
     {
       "ingredient": "Butter",
-      "amount": "6oz"
+      "amount": "6"
     }
   ],
   "steps": [
